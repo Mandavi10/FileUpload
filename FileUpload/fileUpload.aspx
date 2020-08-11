@@ -26,6 +26,11 @@
         padding: 2px 10px 2px 10px !important;
 
     }
+    @media only screen and (max-width: 640px) {
+    .uploadForm {
+        width:100%; display:block; margin:50px auto;
+    }
+    }
 </style>
 </head>
 <body>
