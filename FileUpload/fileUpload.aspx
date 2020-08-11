@@ -24,6 +24,7 @@
         color: #ffffff !important;
         background-color: #003974 !important;
         padding: 2px 10px 2px 10px !important;
+
     }
 </style>
 </head>
